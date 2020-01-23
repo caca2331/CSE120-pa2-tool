@@ -10,7 +10,6 @@ if len(argv) == 1:
           ' - Whenever you enter a process i, DPrint "si" (for example, "s1")'
           ' - SlowPrintf the "iiiiiiiiiiiiiiii" (the more the better) '
           ' - Whenever you exit a process i, DPrint "ei"\n'
-          'an example input will be s11s221212121212121e12e2'
           )
 
 cnt = 0.00001
