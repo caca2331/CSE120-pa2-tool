@@ -33,12 +33,12 @@ s11s221121121112112e122222e2
 ### Make your tab size to 8 for a good-looking format.
 ```
 0	1	2	3	4	5	6	7	8	9
-entering p1, 0chars printed
+entering p1, 0 chars printed
 10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0	10.0
-entering p2, 1chars printed
+entering p2, 1 chars printed
 0.0	100.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-exiting  p1, 14chars printed
+exiting  p1, 14 chars printed
 0.0	64.29	35.71	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-exiting  p2, 5chars printed
+exiting  p2, 5 chars printed
 0.0	0.0	100.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 ```
